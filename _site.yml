@@ -1,0 +1,19 @@
+name: "Index"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "Publications"
+      href: publications.html
+  right:
+    - icon: fa-paper-plane fa-lg
+      href: mailto:<davidfluharty8@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/davidfluharty/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/david-fluharty/
+output:
+  html_document:
+    theme: sandstone

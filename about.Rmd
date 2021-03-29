@@ -1,0 +1,103 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+### Education
+
+**Master of Public Health** [Sept./19 – Present]{style="float:right"}     
+**Epidemiology | Advanced Epidemiology**  
+Columbia University, New York City, United States  
+Merit Scholar
+
+**Bachelor of Science** [Sept./13 – May/18]{style="float:right"}  
+**Major in Microbiology and Immunology with Distinction**  
+University of British Columbia, Vancouver, Canada  
+Dean’s Honour List  
+Chancellor’s Scholar Award
+
+### Research Experience
+
+**Research Assistant** [Nov./19 – Present]{style="float:right"}     
+*Department of Epidemiology*  
+*Mailman School of Public Health Columbia University, New York*    
+
+* Carrying out analyses regarding substance use among adults and adolescents in the United States, including the role of social networks in substance use behaviors.  
+* Conducting a literature review regarding machine learning methodology pertaining to marijuana policies and substance use outcomes using nationwide data.  
+* Developing a mobile application to be used by physicians and healthcare providers at New York Presbyterian regarding optimal opioid prescribing for select general surgery and pediatrics procedures.
+
+**Research Assistant**  [May/17 – Present]{style="float:right"}  
+*Epidemiology and Population Health*
+*BC Centre for Excellence in HIV/AIDS, Vancouver*
+
+* Gaining familiarity with epidemiological methods through leading analyses involving cross-sectional studies, longitudinal studies, and administrative datasets.
+* Carried out community-based participatory research to investigate issues surrounding HIV and aging; residential outcomes in an HIV-specific supportive housing unit in Vancouver, BC; and depressive symptoms among PLHIV living in supportive housing.
+
+**Course Coordinator**  [Jan./19 – May/19]{style="float:right"}  
+*Simon Fraser University, Vancouver*  
+
+* Experience in critical pedagogy through designing curriculum for a graduate-level public health course, INS897, at Simon Fraser University in Burnaby, British Columbia.  
+* Organized six major public lectures, including multiple arts exhibits featuring HIV-positive artists, as a form of knowledge translation and dissemination.  
+
+**Research Assistant**  [Sep./16 – Mar./17]{style="float:right"}  
+*ICON Clinical Research, Vancouver*  
+
+* Conducted data cleaning using patient survey information, to create a usable database.
+
+**Reproductive Immunologist**  [Sep./16 – Dec./16]{style="float:right"}  
+*Child and Family Research Institute, Vancouver*  
+
+* Responsible for tissue collection and sample preparation.  
+* Carried out genotyping experiments, by means of  PCR and agarose gel analysis.   
+
+**Product Development Co-op** [Jan./16 – Aug./16]{style="float:right"}  
+*Response Biomedical Corporation, Vancouver	*	
+
+* Aided in development of a new ELISA-based test on the company’s proprietary platform.  
+* Obtained and analyzed data for troubleshooting.  
+* Aided in the development of a fluorescence detection instrument.
+
+**Research Assistant, Foster Lab** [May/14 – Aug./15]{style="float:right"}   
+*University of British Columbia, Vancouver* 	
+
+* Participated in a large CIHR-funded project which involved examining the synergistic activities of virulence factors secreted by Salmonella typhimurium.  
+* Worked to incorporate a plasmid into the Salmonella genome via homologous recombination. 
+
+### Research Awards
+
+**Columbia University**  [Nov./19]{style="float:right"}  
+**EPIC Fund**
+
+* Awarded funding for conference registration to present at the American Psychopathological Association (APPA). 
+
+**Provincial Health Services Authority (PHSA)**  	[Oct./18]{style="float:right"}  
+**Women’s Innovation Fund**  
+
+* Co-applicant on a $150,000 grant awarded over the course of two years for a women’s wellness and leadership project to empower women living with HIV.
+
+**Canadian Institutes of Health Research**  [Mar./18]{style="float:right"}  
+**HIV/AIDS Community-Based Research Grant**
+
+* Co-applicant on a CIHR grant, of which $449,688 will be awarded to the team over the course of three years.  
+
+**Natural Sciences and Engineering Research Council of Canada (NSERC)**  [Jan./16, May/16]{style="float:right"}  
+**Experience Award**	
+
+* Awarded two NSERC Experience Awards to gain industrial experience in the Research and Development sector.
+	
+**British Columbia Proteomics Network** [May/14 – Aug./14]{style="float:right"}   
+**Undergraduate Training Program**  
+
+* Awarded by the British Columbia Proteomics Network to give undergraduate students the opportunity to carry out research in an academic laboratory	May/15 – Aug./15
+
+
+
+
+
+
+
+
+
